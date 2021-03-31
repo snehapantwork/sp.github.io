@@ -30,9 +30,9 @@ a:visited{
   background: :#ff006e;
 }
 
-a:focus{
+/* a:focus{
 outline: 1px solid black;
-}
+} */
 
 a:hover{
   background: #52796f;
