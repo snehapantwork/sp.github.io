@@ -58,7 +58,7 @@ btnRoll.addEventListener("click", function () {
     pigImg.classList.add("hidden");
     rules.classList.add("hidden");
 
-    diceEl.src = `images/dice-${dice}.png`;
+    diceEl.src = `dice-${dice}.png`;
     //3. check for a rolled 1 and if true switch to next player
     if (dice !== 1) {
       //add dice to current score
