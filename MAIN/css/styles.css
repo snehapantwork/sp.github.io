@@ -36,7 +36,7 @@ outline: 1px solid black;
 } */
 
 a:hover {
-  background: rgb(187, 240, 107);
+  background: rgb(229, 233, 224);
   text-decoration: none;
 }
 
@@ -85,7 +85,7 @@ h3 {
 }
 .item-details h3 ~ p {
   margin: 0;
-  display: flex;
+  /* display: flex; */
 }
 
 .divider > section {
@@ -157,7 +157,7 @@ header {
 ---------------------------------*/
 .skills {
   /* background-color: #99c1de; */
-  background: linear-gradient(to top left, #79b6a2, #7dd56f);
+  background: linear-gradient(to top left, #ebecec, #d1d4d4);
   /* background-image: url(../images/white.jpg);
   /* color: white; */
   background-size: cover;
@@ -186,7 +186,7 @@ header {
 ---------------------------------*/
 .cert {
   /* background: #f8f9fa; */
-  background-image: url(../images/yellow.jpg);
+  background-image: url(/MAIN/images/yellow.jpg);
   background-size: cover;
   background-position: top right;
   padding-bottom: 20px;
@@ -196,7 +196,7 @@ header {
 }
 
 .edu {
-  background-image: url(../images/white.jpg);
+  background-image: url(/MAIN/images/white.jpg);
   background-size: cover;
   background-position: top right;
   padding-bottom: 20px;
