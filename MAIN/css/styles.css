@@ -186,7 +186,7 @@ header {
 ---------------------------------*/
 .cert {
   /* background: #f8f9fa; */
-  background-image: url(/MAIN/images/yellow.jpg);
+  background-image: url(MAIN/images/yellow.jpg);
   background-size: cover;
   background-position: top right;
   padding-bottom: 20px;
@@ -196,7 +196,7 @@ header {
 }
 
 .edu {
-  background-image: url(/MAIN/images/white.jpg);
+  background-image: url(MAIN/images/white.jpg);
   background-size: cover;
   background-position: top right;
   padding-bottom: 20px;
